@@ -1,6 +1,6 @@
 /**
  * Refatorar o código para vermos mais algumas features da ES6
- * 
+ * test
  * Destructing
  */
 
